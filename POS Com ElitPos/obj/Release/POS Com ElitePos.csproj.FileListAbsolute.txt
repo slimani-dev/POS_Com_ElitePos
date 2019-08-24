@@ -16,3 +16,4 @@ C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Release\POS Com E
 C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Release\POS Com ElitePos.application
 C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Release\POS Com ElitePos.exe
 C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Release\POS Com ElitePos.pdb
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Release\POS Com ElitePos.csprojAssemblyReference.cache

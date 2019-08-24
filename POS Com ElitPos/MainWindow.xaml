@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:POS_Com_ElitPos"
         mc:Ignorable="d"
-        Title="MainWindow" Height="110" Width="300"
-        WindowStyle="None">
+        Title="ElitePos Back LED"
+        Height="110" Width="300"
+        Closing="Window_Closing">
     <Grid Margin="0">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="563*"/>
