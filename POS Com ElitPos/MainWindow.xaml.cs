@@ -54,6 +54,7 @@ namespace POS_Com_ElitPos
                 }
                 else
                 {
+                    Total.Text = "";
                     port.Write("\x0C");
                 }
             }
