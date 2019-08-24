@@ -1,0 +1,19 @@
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitPos.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\MainWindow.g.cs
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\App.g.cs
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\MainWindow.baml
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitPos.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitPos.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\bin\Debug\POS Com ElitePos.exe.config
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\bin\Debug\POS Com ElitePos.exe
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\bin\Debug\POS Com ElitePos.pdb
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos_MarkupCompile.cache
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos_MarkupCompile.lref
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos.g.resources
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS_Com_ElitePos.Properties.Resources.resources
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos.exe
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos.pdb
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\bin\Debug\POS Com ElitePos.exe.manifest
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\bin\Debug\POS Com ElitePos.application
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos.exe.manifest
+C:\Users\ACER\source\repos\POS Com ElitPos\POS Com ElitPos\obj\Debug\POS Com ElitePos.application
