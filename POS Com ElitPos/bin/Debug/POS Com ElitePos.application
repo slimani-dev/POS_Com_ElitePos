@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="POS Com ElitePos.exe.manifest" size="3504">
+    <dependentAssembly dependencyType="install" codebase="POS Com ElitePos.exe.manifest" size="3996">
       <assemblyIdentity name="POS Com ElitePos.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/nhvCo+BAs2NCWZM2eiJkjWmdYhe7L9vJV9IwkGh0MQ=</dsig:DigestValue>
+        <dsig:DigestValue>Lg1o6B0aA1kzCb3DOOm5pmJG/bGZpYqhsDLB54zfJDA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

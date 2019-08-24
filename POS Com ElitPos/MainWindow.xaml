@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:POS_Com_ElitPos"
         mc:Ignorable="d"
         Title="ElitePos Back LED"
-        Height="110" Width="300"
+        Height="130" Width="300"
         Closing="Window_Closing">
     <Grid Margin="0">
         <Grid.ColumnDefinitions>
