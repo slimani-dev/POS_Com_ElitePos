@@ -10,6 +10,7 @@ This programme is for the EitePOS Point of sale computers to show the price on t
 - the hex value of 0x0C clear the screen but don't really reset the cursor
 
 ## screenshot
+![](https://i.imgur.com/Sadmevc.png)
 
 ## License
 * Licensed under MIT
